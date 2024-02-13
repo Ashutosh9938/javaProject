@@ -1,2 +1,2 @@
 # Mini project
-## Student course M
+## Student course MIS

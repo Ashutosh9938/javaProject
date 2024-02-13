@@ -1,4 +1,2 @@
 # Mini project
-## Student course MIS .
- 
-dfgh
+## Student course M

@@ -1,3 +1,3 @@
 # Mini project
 ## Student course MIS
-### eclips project
+### eclipse project
